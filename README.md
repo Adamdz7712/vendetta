@@ -1,1 +1,1 @@
-# vendetta
+# vendetta theme
