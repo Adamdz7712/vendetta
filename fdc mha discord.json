@@ -1,6 +1,6 @@
 {
-    "name": "Mha",
-    "description": "thème mha même si dbz solo ",
+    "name": "Mha ",
+    "description": "thème mha même si dbz solo",
     "authors": [
         {
             "name": "Goten#7778",
@@ -12,31 +12,31 @@
             "#00cc66"
         ],
         "HEADER_SECONDARY": [
-            "#003300"
+            "#ff3333"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#ffff99"
         ],
         "TEXT_MUTED": [
-            "#44ddd5"
+            "#ffffff"
         ],
         "TEXT_LINK": [
-            "#bfff00"
+            "#6600cc"
         ],
         "TEXT_DANGER": [
             "#ff3333"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3333ff"
+            "#0099ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#00ff99"
+            "#80ffdf"
         ],
         "INTERACTIVE_MUTED": [
-            "#808080"
+            "#800000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#081924"
+            "#009999"
         ],
         "BACKGROUND_SECONDARY": [
             "#081924"
@@ -45,7 +45,7 @@
             "#081924"
         ],
         "BACKGROUND_TERTIARY": [
-            "#081924"
+            "#006666"
         ],
         "BACKGROUND_ACCENT": [
             "#44ddd5"
